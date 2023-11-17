@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dhunjam-react/static/css/main.086bc26c.css",
+    "main.js": "/dhunjam-react/static/js/main.0b0465d7.js",
+    "index.html": "/dhunjam-react/index.html",
+    "main.086bc26c.css.map": "/dhunjam-react/static/css/main.086bc26c.css.map",
+    "main.0b0465d7.js.map": "/dhunjam-react/static/js/main.0b0465d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086bc26c.css",
+    "static/js/main.0b0465d7.js"
+  ]
+}
